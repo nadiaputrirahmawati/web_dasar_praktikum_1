@@ -1,0 +1,14 @@
+h3 {
+    color: blue;
+}
+
+/* menggunakan class */
+.box {
+    background-color: black;
+    color: white;
+}
+
+#card {
+    background-color: pink;
+    font-size: 30px;
+}
